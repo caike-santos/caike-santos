@@ -15,7 +15,7 @@ Atualmente aprimorando minhas habilidades no desenvolvimento de ponta a ponta e 
   <a href="https://github.com/caike-santos">
     <img src="https://img.shields.io/badge/GitHub-CAIKE--SANTOS-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com/in/caike-santos](https://www.linkedin.com/in/caike-dev/)](https://www.linkedin.com/in/caike-dev/">
+  <a href="https://www.linkedin.com/in/caike-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-CAIKE--SANTOS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
