@@ -56,14 +56,6 @@ Atualmente aprimorando minhas habilidades no desenvolvimento de ponta a ponta e 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caike-santos&show_icons=true&theme=tokyonight" alt="Estatísticas do Caike" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caike-santos&layout=compact&theme=tokyonight" alt="Top Linguagens" />
-</p>
----
-
 ## 🚀 Filosofia
 
 > *"Mais do que escrever linhas de código, programar é entender a engrenagem por trás da solução.* > *Meu foco é construir bases sólidas hoje para desenvolver sistemas escaláveis e seguros amanhã."*
