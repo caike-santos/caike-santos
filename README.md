@@ -3,7 +3,7 @@
 🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Full Stack em Formação** 🇧🇷 Rio de Janeiro, Brasil
 
 Construo **sistemas web e aplicações desktop** focados em resolver problemas reais.  
-Sou apaixonado por **arquitetura de software, banco de dados, cibersegurança e código limpo**.
+Sou apaixonado por **arquitetura de software, banco de dados e código limpo**.
 
 Atualmente aprimorando minhas habilidades no desenvolvimento de ponta a ponta e em busca de uma oportunidade de **estágio em tecnologia** para colaborar em projetos de impacto.
 
