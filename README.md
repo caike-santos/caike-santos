@@ -9,14 +9,33 @@ Atualmente aprimorando minhas habilidades no desenvolvimento de ponta a ponta e 
 
 ---
 
+## 🎯 Confira meu Portfólio
+
+<table align="center">
+  <tr>
+    <td align="center" width="9999">
+      <h3>✨ Veja meus projetos na prática!</h3>
+      <p>Desenvolvi meu portfólio 100% do zero para reunir minhas aplicações, sistemas e evolução técnica em um só lugar.</p>
+      <a href="https://caike-santos.github.io/portfolio/">
+        <img src="https://img.shields.io/badge/🌐_Acessar_Meu_Portfólio-BB3427?style=for-the-badge" alt="Acessar Portfólio"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/caike-santos">
-    <img src="https://img.shields.io/badge/GitHub-CAIKE--SANTOS-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/caike-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-CAIKE--SANTOS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://caike-santos.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfólio-BB3427?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -58,7 +77,7 @@ Atualmente aprimorando minhas habilidades no desenvolvimento de ponta a ponta e 
 
 ## 🚀 Filosofia
 
-> *"Mais do que escrever linhas de código, programar é entender a engrenagem por trás da solução.* > *Meu foco é construir bases sólidas hoje para desenvolver sistemas escaláveis e seguros amanhã."*
+> *"Mais do que escrever linhas de código, programar é entender a engrenagem por trás da solução. Meu foco é construir bases sólidas hoje para desenvolver sistemas escaláveis e seguros amanhã."*
 
 ---
 
